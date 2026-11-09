@@ -1,7 +1,7 @@
 # FridgeAI
 
 A mobile app that helps you manage the food you have at home and waste less of it.
-Built at **CodeSpring 2026**, the hackathon organised by NEI-ISEP (Porto, May 2026).
+Built in 47 hours at **CodeSpring 2026**, the hackathon organised by NEI-ISEP (Porto, May 2026).
 
 ## What it does
 
